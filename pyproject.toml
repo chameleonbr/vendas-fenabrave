@@ -1,0 +1,17 @@
+[project]
+name = "fenabrave-streamlit-app"
+version = "0.1.0"
+description = "Consulta de emplacamentos mensais da Fenabrave"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.40,<2",
+    "pandas>=2.2,<3",
+    "plotly>=7.0.0",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,267 @@
+﻿segmento,marca,modelo,tipo,categoria
+Automóveis,AUDI,Q3,SUV,SUV médio
+Automóveis,AUDI,Q5,SUV,SUV médio
+Automóveis,BMW,320I,Sedã,Sedã médio
+Automóveis,BMW,325I,Sedã,Sedã médio
+Automóveis,BMW,X1,SUV,SUV compacto
+Automóveis,BMW,X3,SUV,SUV médio
+Automóveis,BMW,X5,SUV,SUV grande
+Automóveis,BYD,DOLPHIN,Hatch,Hatch compacto
+Automóveis,BYD,DOLPHIN MINI,Hatch,Hatch compacto
+Automóveis,BYD,KING,Sedã,Sedã médio
+Automóveis,BYD,SEAL,Sedã,Sedã médio
+Automóveis,BYD,SONG,SUV,SUV médio
+Automóveis,BYD,SONG PLUS,SUV,SUV médio
+Automóveis,BYD,YUAN,SUV,SUV compacto
+Automóveis,BYD,YUAN PLUS,SUV,SUV compacto
+Automóveis,CAOA CHERY,ARRIZO 6,Sedã,Sedã compacto
+Automóveis,CAOA CHERY,ICAR,SUV,SUV compacto
+Automóveis,CAOA CHERY,TIGGO,SUV,SUV compacto
+Automóveis,CAOA CHERY,TIGGO 2,SUV,SUV compacto
+Automóveis,CAOA CHERY,TIGGO 3X,SUV,SUV compacto
+Automóveis,CAOA CHERY,TIGGO 5X,SUV,SUV compacto
+Automóveis,CAOA CHERY,TIGGO 7,SUV,SUV médio
+Automóveis,CAOA CHERY,TIGGO 8,SUV,SUV médio
+Automóveis,CITROEN,BASALT,SUV,SUV compacto
+Automóveis,CITROEN,C3,Hatch,Hatch compacto
+Automóveis,CITROEN,C3 AIRCROSS,SUV,SUV compacto
+Automóveis,CITROEN,C4 CACTUS,SUV,SUV compacto
+Automóveis,FIAT,ARGO,Hatch,Hatch compacto
+Automóveis,FIAT,CRONOS,Sedã,Sedã compacto
+Automóveis,FIAT,DOBLO,Minivan,Minivan
+Automóveis,FIAT,FASTBACK,SUV,SUV compacto
+Automóveis,FIAT,MOBI,Hatch,Hatch compacto
+Automóveis,FIAT,PULSE,SUV,SUV compacto
+Automóveis,FIAT,SIENA,Sedã,Sedã compacto
+Automóveis,FIAT,UNO,Hatch,Hatch compacto
+Automóveis,FORD,BRONCO,SUV,SUV médio
+Automóveis,FORD,ECOSPORT,SUV,SUV compacto
+Automóveis,FORD,KA,Hatch,Hatch compacto
+Automóveis,FORD,KA SEDAN,Sedã,Sedã compacto
+Automóveis,FORD,TERRITORY,SUV,SUV médio
+Automóveis,GAC,AION UT,Hatch,Hatch compacto
+Automóveis,GEELY,EX2,SUV,SUV compacto
+Automóveis,GEELY,EX5,SUV,SUV médio
+Automóveis,GEELY,EX5 EM-I,SUV,SUV médio
+Automóveis,GM,CRUZE HB,Hatch,Hatch médio
+Automóveis,GM,CRUZE SEDAN,Sedã,Sedã médio
+Automóveis,GM,EQUINOX,SUV,SUV médio
+Automóveis,GM,ONIX,Hatch,Hatch compacto
+Automóveis,GM,ONIX PLUS,Sedã,Sedã compacto
+Automóveis,GM,SONIC,Sedã,Sedã compacto
+Automóveis,GM,SPARK,Hatch,Hatch compacto
+Automóveis,GM,SPIN,Minivan,Minivan
+Automóveis,GM,TRACKER,SUV,SUV compacto
+Automóveis,GM,TRAILBLAZER,SUV,SUV grande
+Automóveis,GWM,HAVAL H6,SUV,SUV médio
+Automóveis,GWM,HAVAL H9,SUV,SUV grande
+Automóveis,GWM,ORA 03,Hatch,Hatch compacto
+Automóveis,GWM,TANK 300,SUV,SUV médio
+Automóveis,HONDA,CITY,Sedã,Sedã compacto
+Automóveis,HONDA,CITY HATCH,Hatch,Hatch compacto
+Automóveis,HONDA,CIVIC,Sedã,Sedã médio
+Automóveis,HONDA,FIT,Hatch,Hatch compacto
+Automóveis,HONDA,HR-V,SUV,SUV compacto
+Automóveis,HONDA,WR-V,SUV,SUV compacto
+Automóveis,HONDA,ZR-V,SUV,SUV médio
+Automóveis,HYUNDAI,CRETA,SUV,SUV compacto
+Automóveis,HYUNDAI,HB20,Hatch,Hatch compacto
+Automóveis,HYUNDAI,HB20S,Sedã,Sedã compacto
+Automóveis,HYUNDAI,I20,Hatch,Hatch compacto
+Automóveis,HYUNDAI,IONIQ,SUV,SUV médio
+Automóveis,HYUNDAI,IX35,SUV,SUV médio
+Automóveis,HYUNDAI,KONA,SUV,SUV compacto
+Automóveis,HYUNDAI,TUCSON,SUV,SUV médio
+Automóveis,JAECOO,7,SUV,SUV médio
+Automóveis,JEEP,COMMANDER,SUV,SUV grande
+Automóveis,JEEP,COMPASS,SUV,SUV médio
+Automóveis,JEEP,RENEGADE,SUV,SUV compacto
+Automóveis,JETOUR,T2,SUV,SUV médio
+Automóveis,KIA,SPORTAGE,SUV,SUV médio
+Automóveis,LAND ROVER,DISCOVERY,SUV,SUV grande
+Automóveis,M.BENZ,CLASSE C,Sedã,Sedã médio
+Automóveis,M.BENZ,CLASSE GLB,SUV,SUV médio
+Automóveis,MITSUBISHI,ECLIPSE CROSS,SUV,SUV médio
+Automóveis,MITSUBISHI,OUTLANDER,SUV,SUV grande
+Automóveis,MITSUBISHI,PAJERO,SUV,SUV grande
+Automóveis,NISSAN,KAIT,SUV,SUV compacto
+Automóveis,NISSAN,KICKS,SUV,SUV compacto
+Automóveis,NISSAN,SENTRA,Sedã,Sedã médio
+Automóveis,NISSAN,V-DRIVE,Sedã,Sedã compacto
+Automóveis,NISSAN,VERSA,Sedã,Sedã compacto
+Automóveis,OMODA JAECOO,JAECOO 7,SUV,SUV médio
+Automóveis,OMODA JAECOO,OMODA 5,SUV,SUV compacto
+Automóveis,PEUGEOT,2008,SUV,SUV compacto
+Automóveis,PEUGEOT,208,Hatch,Hatch compacto
+Automóveis,PORSCHE,CAYENNE,SUV,SUV grande
+Automóveis,PORSCHE,MACAN,SUV,SUV médio
+Automóveis,RENAULT,BOREAL,SUV,SUV médio
+Automóveis,RENAULT,CAPTUR,SUV,SUV compacto
+Automóveis,RENAULT,DUSTER,SUV,SUV compacto
+Automóveis,RENAULT,KARDIAN,SUV,SUV compacto
+Automóveis,RENAULT,KWID,Hatch,Hatch compacto
+Automóveis,RENAULT,LOGAN,Sedã,Sedã compacto
+Automóveis,RENAULT,SANDERO,Hatch,Hatch compacto
+Automóveis,TOYOTA,COROLLA,Sedã,Sedã médio
+Automóveis,TOYOTA,COROLLA CROSS,SUV,SUV médio
+Automóveis,TOYOTA,ETIOS SEDAN,Sedã,Sedã compacto
+Automóveis,TOYOTA,HILUX SW4,SUV,SUV grande
+Automóveis,TOYOTA,RAV4,SUV,SUV médio
+Automóveis,TOYOTA,YARIS CROSS,SUV,SUV compacto
+Automóveis,TOYOTA,YARIS HB,Hatch,Hatch compacto
+Automóveis,TOYOTA,YARIS SEDAN,Sedã,Sedã compacto
+Automóveis,VOLVO,EX30,SUV,SUV compacto
+Automóveis,VOLVO,XC40,SUV,SUV compacto
+Automóveis,VOLVO,XC60,SUV,SUV médio
+Automóveis,VW,FOX/CROSS FOX,Hatch,Hatch compacto
+Automóveis,VW,GOL,Hatch,Hatch compacto
+Automóveis,VW,JETTA,Sedã,Sedã médio
+Automóveis,VW,NIVUS,SUV,SUV compacto
+Automóveis,VW,POLO,Hatch,Hatch compacto
+Automóveis,VW,T CROSS,SUV,SUV compacto
+Automóveis,VW,TAOS,SUV,SUV médio
+Automóveis,VW,TERA,SUV,SUV compacto
+Automóveis,VW,TIGUAN,SUV,SUV médio
+Automóveis,VW,UP,Hatch,Hatch compacto
+Automóveis,VW,VIRTUS,Sedã,Sedã compacto
+Automóveis,VW,VOYAGE,Sedã,Sedã compacto
+Comerciais leves,AGRALE,AGRALE MARRUA,Off-road,Off-road
+Comerciais leves,ARROW,ONE,Outros,Outros
+Comerciais leves,BYD,SHARK,Picape,Picape média
+Comerciais leves,BYD,T3,Furgão,Furgão compacto
+Comerciais leves,CADILLAC,CADILLAC,Outros,Outros
+Comerciais leves,CITROEN,BERLINGO,Furgão,Furgão compacto
+Comerciais leves,CITROEN,JUMPER,Furgão,Furgão grande
+Comerciais leves,CITROEN,JUMPY,Furgão,Furgão médio
+Comerciais leves,DODGE,CHARGER,Outros,Outros
+Comerciais leves,EFFA,K01,Picape,Picape compacta
+Comerciais leves,EFFA,V21,Picape,Picape compacta
+Comerciais leves,EFFA,V22,Furgão,Furgão compacto
+Comerciais leves,EFFA,V25,Furgão,Furgão compacto
+Comerciais leves,ENGESA,EE34,Off-road,Off-road
+Comerciais leves,FARIZON,V6E,Furgão,Furgão médio
+Comerciais leves,FEVER,NEXTEM FN1000,Outros,Outros
+Comerciais leves,FEVER,ORCA,Outros,Outros
+Comerciais leves,FIAT,CITY,Furgão,Furgão compacto
+Comerciais leves,FIAT,DOBLO,Furgão,Furgão compacto
+Comerciais leves,FIAT,DUCATO,Furgão,Furgão grande
+Comerciais leves,FIAT,FIORINO,Furgão,Furgão compacto
+Comerciais leves,FIAT,SCUDO,Furgão,Furgão médio
+Comerciais leves,FIAT,STRADA,Picape,Picape compacta
+Comerciais leves,FIAT,TITANO,Picape,Picape média
+Comerciais leves,FIAT,TORO,Picape,Picape intermediária
+Comerciais leves,FIAT,UNO,Furgão,Furgão compacto
+Comerciais leves,FORD,ETRANSIT,Furgão,Furgão grande
+Comerciais leves,FORD,F100,Picape,Picape média
+Comerciais leves,FORD,F1000,Picape,Picape média
+Comerciais leves,FORD,F150,Picape,Picape grande
+Comerciais leves,FORD,F250,Picape,Picape grande
+Comerciais leves,FORD,F75,Off-road,Off-road
+Comerciais leves,FORD,FAIRLANE,Outros,Outros
+Comerciais leves,FORD,JEEP,Off-road,Off-road
+Comerciais leves,FORD,MAVERICK,Picape,Picape intermediária
+Comerciais leves,FORD,PAMPA,Picape,Picape compacta
+Comerciais leves,FORD,RANCHERO,Picape,Picape média
+Comerciais leves,FORD,RANGER,Picape,Picape média
+Comerciais leves,FORD,TRANSIT,Furgão,Furgão grande
+Comerciais leves,FOTON,AUMARK 1039,Chassi leve,Chassi leve
+Comerciais leves,FOTON,AUMARK 3.5-14DT,Chassi leve,Chassi leve
+Comerciais leves,FOTON,AUMARK S 315,Chassi leve,Chassi leve
+Comerciais leves,FOTON,EVIEW CONNECT,Furgão,Furgão médio
+Comerciais leves,FOTON,EWONDER,Furgão,Furgão médio
+Comerciais leves,FOTON,TUNLAND,Picape,Picape média
+Comerciais leves,GM,C10,Picape,Picape média
+Comerciais leves,GM,C1404,Picape,Picape média
+Comerciais leves,GM,CHEVROLET,Outros,Outros
+Comerciais leves,GM,CHEVY,Picape,Picape compacta
+Comerciais leves,GM,D10,Picape,Picape média
+Comerciais leves,GM,D20,Picape,Picape média
+Comerciais leves,GM,EL CAMINO,Picape,Picape média
+Comerciais leves,GM,MONTANA,Picape,Picape compacta
+Comerciais leves,GM,S10,Picape,Picape média
+Comerciais leves,GM,SILVERADO,Picape,Picape grande
+Comerciais leves,GMC,HUMMER EV EDITION 1,Picape,Picape grande
+Comerciais leves,GMC,SIERRA,Picape,Picape grande
+Comerciais leves,GWM,POER,Picape,Picape média
+Comerciais leves,HAFEI,TOWNER,Furgão,Furgão compacto
+Comerciais leves,HAFEI,ZHONGYI VAN,Furgão,Furgão compacto
+Comerciais leves,HITECH,ECOCARGO,Furgão,Furgão compacto
+Comerciais leves,HITECH E,NEW DELIVERY,Furgão,Furgão compacto
+Comerciais leves,HYUNDAI,HR,Chassi leve,Chassi leve
+Comerciais leves,IVECO,DAILY,Furgão,Furgão grande
+Comerciais leves,IVECO,DAILY 30-130,Chassi leve,Chassi leve
+Comerciais leves,IVECO,DAILY 30S13,Chassi leve,Chassi leve
+Comerciais leves,IVECO,DAILY 35-150,Chassi leve,Chassi leve
+Comerciais leves,IVECO,DAILY 35-180,Chassi leve,Chassi leve
+Comerciais leves,IVECO,DAILY 35S14,Chassi leve,Chassi leve
+Comerciais leves,IVECO,DAILY 5516,Chassi leve,Chassi leve
+Comerciais leves,JAC,EJV12,Chassi leve,Chassi leve
+Comerciais leves,JAC,EJV5.5,Chassi leve,Chassi leve
+Comerciais leves,JAC,EJV7L,Chassi leve,Chassi leve
+Comerciais leves,JAC,HUNTER,Picape,Picape média
+Comerciais leves,JAC,IEV 330P,Picape,Picape compacta
+Comerciais leves,JAC,IEV750,Chassi leve,Chassi leve
+Comerciais leves,JAC,T8,Picape,Picape média
+Comerciais leves,JAC,V260,Furgão,Furgão médio
+Comerciais leves,JEEP,GLADIATOR,Picape,Picape média
+Comerciais leves,JINBEI,M35,Furgão,Furgão médio
+Comerciais leves,KIA,BESTA,Furgão,Furgão médio
+Comerciais leves,KIA,K2500,Chassi leve,Chassi leve
+Comerciais leves,KIA,UK2500,Chassi leve,Chassi leve
+Comerciais leves,LVTONG,LT S14 C,Outros,Outros
+Comerciais leves,M.BENZ,EQV 300,Furgão,Furgão médio
+Comerciais leves,M.BENZ,ESPRINTER 320,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER 311,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER 313,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER 314,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER 315,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER 317,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER 415,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER 416,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER 417,Furgão,Furgão grande
+Comerciais leves,M.BENZ,SPRINTER 517,Furgão,Furgão grande
+Comerciais leves,M.BENZ,VITO,Furgão,Furgão médio
+Comerciais leves,MAHINDRA,HWKCS34,Picape,Picape média
+Comerciais leves,MAHINDRA,MAHINDRA,Picape,Picape média
+Comerciais leves,MITSUBISHI,L200,Picape,Picape média
+Comerciais leves,MITSUBISHI,TRITON,Picape,Picape média
+Comerciais leves,MON,PROTOTIPO,Outros,Outros
+Comerciais leves,NISSAN,FRONTIER,Picape,Picape média
+Comerciais leves,NISSAN,TOWNSTAR,Furgão,Furgão compacto
+Comerciais leves,OPEL,OPEL,Outros,Outros
+Comerciais leves,PEUGEOT,BOXER,Furgão,Furgão grande
+Comerciais leves,PEUGEOT,EXPERT,Furgão,Furgão médio
+Comerciais leves,PEUGEOT,PARTNER,Furgão,Furgão compacto
+Comerciais leves,RADAR,RD6,Picape,Picape média
+Comerciais leves,RAM,1500,Picape,Picape grande
+Comerciais leves,RAM,2500,Picape,Picape grande
+Comerciais leves,RAM,3500,Picape,Picape grande
+Comerciais leves,RAM,CLASSIC,Picape,Picape grande
+Comerciais leves,RAM,DAKOTA,Picape,Picape média
+Comerciais leves,RAM,RAMPAGE,Picape,Picape intermediária
+Comerciais leves,RELY,RELY PICK-UP,Picape,Picape compacta
+Comerciais leves,RENAULT,KANGOO,Furgão,Furgão compacto
+Comerciais leves,RENAULT,KANGOO E-TECH,Furgão,Furgão compacto
+Comerciais leves,RENAULT,KWID,Furgão,Furgão compacto
+Comerciais leves,RENAULT,MARCOPOLO/VOLARE V9L EO,Chassi leve,Chassi leve
+Comerciais leves,RENAULT,MASTER,Furgão,Furgão grande
+Comerciais leves,RENAULT,OROCH,Picape,Picape compacta
+Comerciais leves,RIDDARA,RD6,Picape,Picape média
+Comerciais leves,RIVIAN,R1T,Picape,Picape grande
+Comerciais leves,SHINERAY,DTRUCK,Chassi leve,Chassi leve
+Comerciais leves,SHINERAY,P TRUCKS,Chassi leve,Chassi leve
+Comerciais leves,SHINERAY,P VAN,Furgão,Furgão compacto
+Comerciais leves,SHINERAY,TLUX,Furgão,Furgão compacto
+Comerciais leves,TOYOTA,BANDEIRANTE,Off-road,Off-road
+Comerciais leves,TOYOTA,HIACE,Furgão,Furgão médio
+Comerciais leves,TOYOTA,HILUX,Picape,Picape média
+Comerciais leves,TOYOTA,RIBEIRAUTO,Outros,Outros
+Comerciais leves,TOYOTA,TACOMA,Picape,Picape média
+Comerciais leves,TOYOTA,TUNDRA,Picape,Picape grande
+Comerciais leves,VW,AMAROK,Picape,Picape média
+Comerciais leves,VW,KOMBI,Furgão,Furgão médio
+Comerciais leves,VW,SAVEIRO,Picape,Picape compacta
+Comerciais leves,VW TRUCK E BUS,EXPRESS,Chassi leve,Chassi leve
+Comerciais leves,VW/MAN,EXPRESS,Chassi leve,Chassi leve
+Comerciais leves,WILLYS,OVERLAND,Off-road,Off-road
