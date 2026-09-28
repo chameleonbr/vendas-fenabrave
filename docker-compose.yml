@@ -1,0 +1,6 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    expose:
+      - "8501"
