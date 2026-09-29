@@ -11,6 +11,22 @@ uv run streamlit run app.py
 
 Testes: `uv run pytest`.
 
+Com Docker: `docker compose up --build` (a porta 8501 só fica exposta na rede interna do Compose;
+para acessar localmente, adicione `ports: ["8501:8501"]`).
+
+## Deploy no Dokploy
+
+O `docker-compose.yml` usa `expose: 8501` em vez de `ports`, então o Traefik do Dokploy faz o
+roteamento sem publicar porta no host.
+
+1. **Create Service → Compose**, provider GitHub (ou Git) apontando para
+   `https://github.com/chameleonbr/vendas-fenabrave`, branch `main`, compose path `./docker-compose.yml`.
+2. **Deploy**.
+3. Em **Domains**, adicione o domínio com **Service Name** `app` e **Container Port** `8501`
+   (ative HTTPS/Let's Encrypt se quiser). Redeploy para aplicar.
+
+Para atualizar, basta dar push na `main` e redeploy (ou ativar Auto Deploy).
+
 ## Recursos
 
 - Agrupamento por ano, trimestre ou mês.
